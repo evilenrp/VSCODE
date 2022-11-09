@@ -1,0 +1,33 @@
+h1{
+	color: red;
+	text-align: center;
+}
+h2{
+	color: red;
+	text-align: center;
+	font-size: 27px;
+}
+h3{
+	color: blue;
+	font-size: 27px;
+}
+strong{
+	color: red;
+	font-size: 27px;
+}
+#arte{
+}
+p{
+	font-size: 23px;
+	font-style: oblique;
+	text-align: ;
+}
+
+#foto{
+	width: 50%;
+	height: 350px;
+}
+#foto2{
+	width: 50%;
+	height: 350px;
+}
